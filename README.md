@@ -15,8 +15,8 @@
 ------------
 
 #### In progress
+[Chat App](https://github.com/AlikReznik/react-tailwind-chatApp) - using react & tailwind & firebase
+
 [Managment program on python](https://github.com/AlikReznik/My-company) - using python & qt5
 
 [Training App](https://github.com/AlikReznik/TrainingApp) - using angular
-
-[Chat App](https://github.com/AlikReznik/react-tailwind-app) - using react & tailwind & firebase
